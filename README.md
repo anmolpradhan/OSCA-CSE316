@@ -5,6 +5,6 @@ The executable file is a.out
 
 To run executable
 
-./a.out
+    ./a.out
 
 in terminal
